@@ -4,7 +4,7 @@ Neste projeto foi desenvolvido um dashboard de Vendas utilizando os conceitos de
 
 ## Dashboard
 
-
+![Relacionamentos](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/631bd7cd-e215-4ec4-8a15-eac97951aa3e)
 
 ## Diagrama de Relacionamento das Tabelas
 
@@ -13,3 +13,4 @@ Neste projeto foi desenvolvido um dashboard de Vendas utilizando os conceitos de
 ## Funções e Medidas Ultilizadas - Modelo de dados
 
 ![image](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/0cb9b87a-18b1-4b68-8a06-9cb2d7307d51)
+

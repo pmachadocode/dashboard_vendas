@@ -3,7 +3,10 @@
 Neste projeto foi desenvolvido um dashboard de Vendas utilizando os conceitos de Power Pivot, tratamento de dados no Power Query a um dashboard integrado no Excel.
 
 ## Dashboard
-![Dashboar](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/70cc5619-f013-41ae-9a2a-2c840a114b2d)
+![Dashboard](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/70cc5619-f013-41ae-9a2a-2c840a114b2d)
+
+## Dashboard Video
+![Video]([https://github.com/pmachadocode/dashboard_vendas/assets/49794067/70cc5619-f013-41ae-9a2a-2c840a114b2d](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/549f1e45-fda5-4285-a207-4b08e7609c5f))
 
 ## Diagrama de Relacionamento das Tabelas
 
@@ -12,4 +15,8 @@ Neste projeto foi desenvolvido um dashboard de Vendas utilizando os conceitos de
 ## Funções e Medidas Ultilizadas - Modelo de dados
 
 ![image](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/0cb9b87a-18b1-4b68-8a06-9cb2d7307d51)
+
+
+
+
 

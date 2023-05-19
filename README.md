@@ -5,9 +5,6 @@ Neste projeto foi desenvolvido um dashboard de Vendas utilizando os conceitos de
 ## Dashboard
 ![Dashboard](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/70cc5619-f013-41ae-9a2a-2c840a114b2d)
 
-## Dashboard Video
-![Video]([https://github.com/pmachadocode/dashboard_vendas/assets/49794067/70cc5619-f013-41ae-9a2a-2c840a114b2d](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/549f1e45-fda5-4285-a207-4b08e7609c5f))
-
 ## Diagrama de Relacionamento das Tabelas
 
 ![Relacionamentos](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/f9b0d594-0ac6-4b78-b7ed-eef9c4008b99)

@@ -2,6 +2,9 @@
 
 Neste projeto foi desenvolvido um dashboard de Vendas utilizando os conceitos de Power Pivot, tratamento de dados no Power Query a um dashboard integrado no Excel.
 
+Agora Realize upgrades neste projeto, ultilizando novas medidas, e tambem uma ferramenta poderoza, o powerBI
+
+
 ## Dashboard
 ![Dashboard](https://github.com/pmachadocode/dashboard_vendas/assets/49794067/70cc5619-f013-41ae-9a2a-2c840a114b2d)
 
